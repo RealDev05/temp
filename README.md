@@ -1,9 +1,11 @@
 # Internship Experience at NoTime
+
 ## Full Stack Developer Intern
 
 ---
 
 ## Overview
+
 - Company: NoTime (Innovize NoTime Pvt Ltd)
 - Duration: 06 May 2024 to 06 June 2024 (1 month)
 - Position: Full Stack Developer Intern
@@ -12,14 +14,17 @@
 ---
 
 ## Project 1: NoTime Aptitude Tester
+
 - Contributed primarily to back-end development and system architecture
 - Focused on creating an intuitive, functional, and efficient platform
 - Leveraged generative AI for content creation
-- Collaborated with a team member on frontend integration
+- Collaborated with Goutham Rajesh on frontend integration
+- Managed complex version control challenges in shared repository
 
 ---
 
 ## Project 2: ERP System for Client
+
 - Created and configured an Enterprise Resource Planning (ERP) system
 - Dockerized the application for consistent deployment
 - Hosted the system on Amazon Web Services (AWS)
@@ -27,6 +32,7 @@
 ---
 
 ## Technical Skills Enhanced
+
 - Next.js for front-end development
 - Node.js and Express for back-end development
 - React for building user interfaces
@@ -42,14 +48,48 @@
 ---
 
 ## Additional Tools & Technologies
+
 - Tailwind CSS and Material UI for styling
 - AirTable for flexible data management
 - Scheduled task management (automated emails)
 - Generative AI for question and answer generation
+- Advanced Git operations for collaboration
+  - Merge conflict resolution
+  - Rebasing
+  - Commit management
+
+---
+
+## Collaborative Development Challenges
+
+- Worked in a shared GitHub repository with Goutham Rajesh
+- Encountered and resolved various merge conflicts
+- Self-taught advanced Git operations including:
+  - Proper commit management
+  - Rebasing strategies
+  - Branch management
+  - Conflict resolution techniques
+- Developed better understanding of Git workflows
+- Implemented improved collaboration practices
+
+---
+
+## Version Control Learning Experience
+
+- Initially faced challenges with concurrent development
+- Took initiative to learn advanced Git concepts
+- Studied online materials for best practices
+- Successfully implemented:
+  - Structured commit messages
+  - Feature branch workflow
+  - Clean merge strategies
+  - Rebase operations
+- Resulted in smoother collaboration and code integration
 
 ---
 
 ## Key Responsibilities
+
 1. Designed and implemented backend architecture
 2. Built serverless APIs
 3. Ensured smooth functionality and integration across the platform
@@ -65,14 +105,18 @@
 ---
 
 ## Collaborative Approach
-- Worked closely with a fellow intern who focused on frontend design and development
+
+- Worked closely with Goutham Rajesh who focused on frontend design and development
 - Coordinated backend functionality with frontend requirements
-- Practiced effective communication and teamwork in a development environment
-- Gained experience in collaborative problem-solving and code integration
+- Practiced effective communication and teamwork
+- Overcame version control challenges through self-learning
+- Established efficient Git workflow practices
+- Gained valuable experience in real-world collaborative development
 
 ---
 
 ## Innovative Approach: AI-Assisted Content Creation
+
 - Extracted and categorized aptitude questions
 - Utilized generative AI to:
   - Group questions into categories
@@ -83,6 +127,7 @@
 ---
 
 ## Performance Optimization
+
 - Implemented fast loading techniques
 - Considered potential website load and scalability
 - Optimized resource management for efficiency
@@ -91,6 +136,7 @@
 ---
 
 ## Security Implementations
+
 - Proper password management:
   - Salting and hashing techniques
 - Access token implementation
@@ -100,6 +146,7 @@
 ---
 
 ## Cloud & DevOps Skills
+
 - Docker containerization
 - AWS cloud deployment and management
 - Understanding of cloud architecture and best practices
@@ -107,6 +154,7 @@
 ---
 
 ## Achievements
+
 - Successfully contributed to the NoTime Aptitude Tester project
 - Implemented innovative ideas to improve user experience
 - Developed and deployed an ERP system for a client
@@ -118,6 +166,7 @@
 ---
 
 ## Learning Outcomes
+
 - Gained practical experience in full-stack development
 - Enhanced proficiency in MERN stack (MongoDB, Express, React, Node.js)
 - Learned industry standards and best practices
@@ -128,10 +177,15 @@
 - Developed skills in containerization and cloud deployment
 - Explored practical applications of generative AI in web development
 - Improved teamwork and communication skills in a development setting
+- Mastered advanced Git operations through self-directed learning
+- Developed problem-solving skills for version control challenges
+- Enhanced ability to work in shared codebases
+- Improved documentation and commit message practices
 
 ---
 
 ## Industry Standards & Best Practices
+
 - Secure authentication and authorization techniques
 - Progressive Web Application development
 - Efficient database management
@@ -142,10 +196,15 @@
 - Cloud-based hosting and management
 - AI integration for enhanced functionality
 - Collaborative development and version control
+- Git workflow management
+- Clean code integration practices
+- Effective commit management
+- Documentation standards
 
 ---
 
 ## Conclusion
+
 - Valuable experience gained in software development
 - Prepared for future challenges in the tech industry
 - Equipped with in-demand skills for modern web development
@@ -158,8 +217,9 @@
 ---
 
 ## Thank You
+
 - Special thanks to:
   - Muhammed Rinshad S R (CEO, NoTime)
   - Thrisha K (CTO, NoTime)
-  - My fellow intern and collaborator
+  - Goutham Rajesh, my fellow intern and collaborator
   - The entire NoTime team
